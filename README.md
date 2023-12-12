@@ -7,7 +7,7 @@ This repository cotains the process of predicting the 'Delivery Time' based on '
 # Steps of Evaluation
 # 1.Jupyter Notebook
 Using Jupyter Notebook the data is downloaded,basic information check is done.The EDA(Exploratory Data Analysis) helps in visualising the data and the correlation between the columns.Linear Regression model is built.
-# MS-Excel
+# 2.MS-Excel
 Data is downloaded to excel,From the DataAnalysis the values of constant,slope and R2_score or 'Coefficient of Determination' is calculated.
 # Results
 ## The projects achievement can be summed on basis of
