@@ -13,5 +13,7 @@ Data is downloaded to excel,From the DataAnalysis the values of constant,slope a
 ## The projects achievement can be summed on basis of
 #### 1.R2_Score-The model's ability to explain the variance or divergence.
 #### 2.RMSE-The average prediction error.
-The model with train_test_split 80:20 accomplished with R2_score 84.01% and RMSE value of 1.58.
+#### The model with train_test_split 80:20 accomplished with R2_score 84.01% for a good model and RMSE value of 1.58.
+#### From Excel-RSquare value is 95.5% and the correlation value is 0.82. 
+
 
