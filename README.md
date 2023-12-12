@@ -2,12 +2,12 @@
 Linear regression is a statistical method used to model the relationship between two variables by fitting a linear equation to the observed data.
 The most common form of linear regression is simple linear regression, which involves only one independent variable. The equation of a simple linear regression line is given by:y=mx+c
 Here y is the dependent variable,x is the independent variable,m is the slope of the graph and c is the constant.
-# Overview of the project
+# Delivery_Time_Prediction_Model
 This repository cotains the process of predicting the 'Delivery Time' based on 'Sorting Time.
 # Steps of Evaluation
-## 1.Jupyter Notebook
+### 1.Jupyter Notebook
 Using Jupyter Notebook the data is downloaded,basic information check is done.The EDA(Exploratory Data Analysis) helps in visualising the data and the correlation between the columns.Linear Regression model is built.
-## 2.MS-Excel
+### 2.MS-Excel
 Data is downloaded to excel,From the DataAnalysis the values of constant,slope and R2_score or 'Coefficient of Determination' is calculated.
 # Results
 ## The projects achievement can be summed on basis of
@@ -16,4 +16,4 @@ Data is downloaded to excel,From the DataAnalysis the values of constant,slope a
 #### The model with train_test_split 80:20 accomplished with R2_score 84.01% for a good model and RMSE value of 1.58.
 #### From Excel-RSquare value is 95.5% and the correlation value is 0.82. 
 
-
+# Salary_Prediction_Model
