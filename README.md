@@ -17,3 +17,18 @@ Data is downloaded to excel,From the DataAnalysis the values of constant,slope a
 #### From Excel-RSquare value is 95.5% and the correlation value is 0.82. 
 
 # Salary_Prediction_Model
+# Project Overview
+This project aims to build a prediction model for employee salaries based on their years of experience. Accurate salary predictions can support human resources and workforce planning.
+
+# Data
+The project uses a dataset containing "Years of Experience" and corresponding "Salary" data. This dataset serves as the foundation for the prediction model.
+
+# Analysis and Models
+The project involves data preprocessing and the development of predictive models. Different data splits(70:30, 75:25, and 80:20) are used to assess model performance.
+
+# Results
+The project's performance is assessed using key metrics:
+
+R2 Score: The extent to which the model explains salary variance.
+RMSE: The average prediction error.
+The ideal model achieved an R2 score of 86.97%.
