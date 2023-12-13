@@ -33,3 +33,5 @@ The project's performance is assessed using key metrics:
 R2 Score: The extent to which the model explains salary variance.
 RMSE: The average prediction error.
 The ideal model achieved an R2 score of 86.97%.
+From Excel we have the vale of RSquare as 0.97 and the adjusted RSquare as .0.972.
+
